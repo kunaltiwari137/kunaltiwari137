@@ -95,3 +95,13 @@ An AI-powered application designed to help students learn and interact with educ
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kunaltiwari137&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Deep Learning & NLP
+- ⚙️ Backend Engineering
+- 🏗️ System Design
+- 🔐 Backend Security & Authentication
