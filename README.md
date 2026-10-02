@@ -105,3 +105,13 @@ An AI-powered application designed to help students learn and interact with educ
 - ⚙️ Backend Engineering
 - 🏗️ System Design
 - 🔐 Backend Security & Authentication
+
+---
+
+## 💡 What I Like Building
+
+I enjoy building practical software that combines **AI, backend engineering, and real-world problem solving**.
+
+---
+
+⭐️ *Thanks for visiting my profile!*
