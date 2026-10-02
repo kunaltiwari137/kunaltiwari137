@@ -61,10 +61,10 @@ A full-stack marketplace that connects farmers directly with buyers and provides
 
 ---
 
-### 🍔 FoodFlow
+### 🍔 FoodFlow — Currently in Development
 **Food Delivery Platform**
 
-A food delivery application inspired by modern platforms like Swiggy and Zomato, focused on connecting customers, restaurants, and delivery partners.
+Currently building a food delivery application inspired by modern platforms like Swiggy and Zomato, designed to connect customers, restaurants, and delivery partners.
 
 **Tech:** Node.js • Express.js • JavaScript • MongoDB
 
@@ -75,3 +75,11 @@ A food delivery application inspired by modern platforms like Swiggy and Zomato,
 An AI-powered application designed to help students learn and interact with educational content.
 
 **Tech:** Python • AI/ML • NLP
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [www.linkedin.com/in/kunal-tiwari137]
+- 📧 Email: [kunaltiwary137@gmail.com]
+- 🐙 GitHub: [@kunaltiwari137](https://github.com/kunaltiwari137)
