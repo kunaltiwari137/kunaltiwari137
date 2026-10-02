@@ -83,3 +83,9 @@ An AI-powered application designed to help students learn and interact with educ
 - 💼 LinkedIn: [www.linkedin.com/in/kunal-tiwari137]
 - 📧 Email: [kunaltiwary137@gmail.com]
 - 🐙 GitHub: [@kunaltiwari137](https://github.com/kunaltiwari137)
+
+---
+
+## 📊 GitHub Stats
+
+![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunaltiwari137&show_icons=true&theme=tokyonight)
