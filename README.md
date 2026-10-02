@@ -89,3 +89,9 @@ An AI-powered application designed to help students learn and interact with educ
 ## 📊 GitHub Stats
 
 ![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunaltiwari137&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kunaltiwari137&theme=tokyonight)](https://git.io/streak-stats)
